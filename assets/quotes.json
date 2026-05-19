@@ -1,0 +1,47 @@
+[
+    {
+        "photo": "../assets/images/client-aikido.jpg",
+        "stars": 5,
+        "quote": {
+            "en": "Patentales understood our technical architecture better than we expected. They secured protection that actually covers what we built.",
+            "nl": "Patentales begreep onze technische architectuur beter dan we hadden verwacht. Zij zorgden voor bescherming die daadwerkelijk beschermt wat we bouwden."
+        },
+        "name": "Willem Delbare",
+        "role": {
+            "en": "CEO & CTO, Aikido Security",
+            "nl": "CEO & CTO, Aikido Security"
+        },
+        "logo": "../assets/images/logo-aikido.svg",
+        "logoAlt": "Aikido Logo"
+    },
+    {
+        "photo": "../assets/images/client-default.jpg",
+        "stars": 5,
+        "quote": {
+            "en": "Quote from second client goes here.",
+            "nl": "Citaat van tweede klant komt hier."
+        },
+        "name": "Second Client",
+        "role": {
+            "en": "Role, Company",
+            "nl": "Rol, Bedrijf"
+        },
+        "logo": "../assets/images/logo-baryon.svg",
+        "logoAlt": "Company 2"
+    },
+    {
+        "photo": "../assets/images/client-default.jpg",
+        "stars": 5,
+        "quote": {
+            "en": "Quote from third client goes here.",
+            "nl": "Citaat van derde klant komt hier."
+        },
+        "name": "Third Client",
+        "role": {
+            "en": "Role, Company",
+            "nl": "Rol, Bedrijf"
+        },
+        "logo": "../assets/images/logo-baryon.svg",
+        "logoAlt": "Company 3"
+    }
+]
