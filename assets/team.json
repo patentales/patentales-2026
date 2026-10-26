@@ -9,23 +9,9 @@
             "en": "Ten years navigating patent landscapes across Europe and beyond. Professor.",
             "nl": "Tien jaar ervaring met het navigeren van patentlandschappen in Europa en daarbuiten. Professor."
         },
-        "photo": "../assets/images/wouter.jpg",
+        "photo": "../assets/images/Wouter.jpg",
         "linkedin": "https://www.linkedin.com/in/wouterrogiest",
         "email": "wouter.rogiest@patentales.com"
-    },
-    {
-        "name": "Lynn Deruddere",
-        "role": {
-            "en": "Paralegal",
-            "nl": "Paralegal"
-        },
-        "bio": {
-            "en": "IP professional supporting innovation for nearly a decade.",
-            "nl": "IP professional die al bijna een decennium innovaties ondersteunt."
-        },
-        "photo": "../assets/images/lynn.jpg",
-        "linkedin": "https://www.linkedin.com/in/lynn-deruddere-464870a5/",
-        "email": "lynn.deruddere@patentales.com"
     },
     {
         "name": "Tim Van Cauteren",
@@ -37,8 +23,22 @@
             "en": "Quantum precision. Strategic patents. PhD.",
             "nl": "Kwantumprecisie. Strategische patenten. PhD."
         },
-        "photo": "../assets/images/tim.jpg",
+        "photo": "../assets/images/Tim.jpg",
         "linkedin": "https://www.linkedin.com/in/tim-van-cauteren-a990b830/",
         "email": "tim.vancauteren@patentales.com"
+    },
+        {
+        "name": "Lynn Deruddere",
+        "role": {
+            "en": "Patent Adviser",
+            "nl": "Patent Adviser"
+        },
+        "bio": {
+            "en": "Makes your inventions shine. PhD.",
+            "nl": "Doet uw uitvindingen schitteren. PhD"
+        },
+        "photo": "../assets/images/Sebbe.jpg",
+        "linkedin": "https://www.linkedin.com/in/sebbe-stouten/",
+        "email": "sebbe.stouten@patentales.com"
     }
 ]
